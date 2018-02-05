@@ -15,7 +15,7 @@ LSRouter.framework create by ArthurShuai
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'framework/*'
+  s.source_files = '*/*/*'
   s.ios.vendored_frameworks = 'framework/LSRouter.framework'
   
   # s.resource_bundles = {
